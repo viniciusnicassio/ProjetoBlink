@@ -1,0 +1,13 @@
+#Arquivos que serão ignorados
+#	Pastas da IDE
+.pioenvs/*
+.clang_complete
+.gcc-flags.json
+\.pio
+
+#	Pastas do VS
+.vscode/*
+
+#	Para branch principal
+# *.sh
+# doxyfile
